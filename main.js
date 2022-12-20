@@ -32,7 +32,7 @@ function draw() {
     background('white');
 
     document.getElementById("square_side").innerHTML = "Text size is = "+difference+"px";
-    textSize(difference)
-    fill('orange');
+    textSize(difference);
+    fill('ffa500');
     text('Yesnt', 100, 200); 
 }
