@@ -34,5 +34,5 @@ function draw() {
     document.getElementById("square_side").innerHTML = "Text size is = "+difference+"px";
     textSize(difference)
     fill('orange');
-    text('Yesnt', 40, 100); 
+    text('Yesnt', 100, 200); 
 }
